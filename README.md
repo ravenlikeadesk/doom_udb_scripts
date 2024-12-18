@@ -11,3 +11,7 @@ Bitmap-based generator for outputting text on walls.\
 Make a diagonal screen, run bitmap tagging on it and then use vertical_text.js to generate voodoo closet linedefs.\
 6x8 glyphs are hardcoded, but the script is easy to modify to use different glyphs and different resolution.\
 Font source: https://www.dafont.com/04b-03.charmap?back=bitmap
+
+### vertical text static
+Applies to a bitmap just like vertical text, but is just there statically instead of dynamic printing.
+

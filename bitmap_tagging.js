@@ -66,9 +66,9 @@ function get_top_left_vertex(v_arr) {
 }
 
 function sectors_compare(a, b) {
-  va = get_top_left_vertex(get_sector_vertices(a));
-  vb = get_top_left_vertex(get_sector_vertices(b));
-  return vertices_compare(va, vb);
+    va = get_top_left_vertex(get_sector_vertices(a));
+    vb = get_top_left_vertex(get_sector_vertices(b));
+    return vertices_compare(va, vb);
 }
 
 var so = UDB.ScriptOptions;
