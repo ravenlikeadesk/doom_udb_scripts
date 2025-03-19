@@ -15,3 +15,6 @@ Font source: https://www.dafont.com/04b-03.charmap?back=bitmap
 ### vertical text static
 Applies to a bitmap just like vertical text, but is just there statically instead of dynamic printing.
 
+### randomize linedef tags
+Very simple script to randomize tags (within the specified range) of selected linedefs.
+
